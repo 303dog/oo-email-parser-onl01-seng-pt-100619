@@ -7,7 +7,7 @@ class EmailAddressParser
   
   attr_accessor
   
-  def initailize([email])
+  def initailize(email)
     
   end
   
