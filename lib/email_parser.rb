@@ -7,7 +7,7 @@ class EmailAddressParser
   
   attr_accessor
   
-  def self.parse
+  def self.parse(email)
     
   end
   
