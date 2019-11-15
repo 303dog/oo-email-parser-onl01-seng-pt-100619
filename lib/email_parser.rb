@@ -7,7 +7,7 @@ class EmailAddressParser
   
   attr_accessor
   
-  def self.list_of_email_cvs(cvs.data)
+  def self.list_of_email_cvs(cvs_data)
     
   end
   
